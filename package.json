@@ -1,0 +1,9 @@
+{
+  "name": "meeting-reminder",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "twilio": "^5.0.0"
+  }
+}
